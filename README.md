@@ -1,2 +1,1 @@
-# android_out_target_product_kanas_obj_KERNEL_OBJ_usr
-fix something
+Sometimes need this to fix something
